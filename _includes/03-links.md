@@ -1,1 +1,1 @@
-[GitHub]https://www.mlb.com/
+[MLB website](https://www.mlb.com/)
