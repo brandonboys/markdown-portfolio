@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Top 3 Teams in NFL
+  * Buccaneers
+  * Packers
+  * Cowboys
